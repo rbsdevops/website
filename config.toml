@@ -2,14 +2,3 @@ languageCode = "en-us"
 title = "Barath Sriram"
 baseurl = "https://rbsdevops.me/"
 
-[[menu.main]]
-    name = "about me"
-    pre = "<i class='fa fa-heart'></i>"
-    weight = -110
-    identifier = "about"
-    url = "/about/"
-[[menu.main]]
-    name = "home"
-    pre = "<i class='fa fa-road'></i>"
-    weight = -100
-    url = "/"
